@@ -77,8 +77,8 @@
 .search-icon{
     width: 45px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;     /* aligns horizontal items */
+    align-items: center;         /* align verticle items */
     font-size: 1.2rem;
     background-color: rgb(255, 174, 0);
     border-top-right-radius: 5px;
